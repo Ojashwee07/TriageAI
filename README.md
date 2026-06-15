@@ -1,5 +1,5 @@
 TriageAI – Intelligent Email Triage RL Environment
-📌 Overview
+
 
 TriageAI is a Reinforcement Learning (RL) environment built using FastAPI and the OpenEnv specification. It simulates real-world email triage workflows where an AI agent must analyze incoming emails and decide the most appropriate action.
 
