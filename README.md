@@ -71,7 +71,7 @@ Security Breach
 
 ⚙️ Installation
 Clone Repository
-git clone https://github.com/yourusername/TriageAI.git
+git clone https://github.com/ojashwee07/TriageAI.git
 cd TriageAI
 Create Virtual Environment
 python -m venv venv
